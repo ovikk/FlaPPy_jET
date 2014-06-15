@@ -25,7 +25,8 @@ Changes and improvements are more than welcome! Feel free to fork and open a pul
 
 :point_down:
 ### License 
-FlaPPy_jeT is licensed under the [MIT license](LICENSE)
+
+[MIT license](LICENSE)
 
 
 ###CREDITS  :clap: :raised_hands: :octocat:
